@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>62,194,798,616</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>1308,267,602,590</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>208,665,96,62</Rect>
+<PlateType>6</PlateType>
+<Code>경북83이1730</Code>
+<LocalCode value="경북">
+<Rect>237,676,9,12</Rect>
+<Rect>247,676,9,12</Rect>
+</LocalCode>
+<TypeCode value="83">
+<Rect>259,676,9,12</Rect>
+<Rect>268,676,9,12</Rect>
+</TypeCode>
+<UseCode value="이">
+<Rect>220,690,16,18</Rect>
+</UseCode>
+<DigitCode value="1730">
+<Rect>237,690,13,23</Rect>
+<Rect>250,690,14,23</Rect>
+<Rect>264,690,14,23</Rect>
+<Rect>278,690,15,23</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>1649,753,108,60</Rect>
+<PlateType>6</PlateType>
+<Code>대전85사6901</Code>
+<LocalCode value="대전">
+<Rect>1679,760,12,14</Rect>
+<Rect>1691,760,12,14</Rect>
+</LocalCode>
+<TypeCode value="85">
+<Rect>1705,763,10,13</Rect>
+<Rect>1716,763,10,13</Rect>
+</TypeCode>
+<UseCode value="사">
+<Rect>1660,773,17,20</Rect>
+</UseCode>
+<DigitCode value="6901">
+<Rect>1679,776,15,22</Rect>
+<Rect>1695,777,15,22</Rect>
+<Rect>1711,778,15,22</Rect>
+<Rect>1727,780,15,22</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

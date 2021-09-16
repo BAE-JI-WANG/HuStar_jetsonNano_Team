@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>748,526,233,187</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>1225,511,538,355</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>829,640,78,27</Rect>
+<PlateType>0</PlateType>
+<Code>09주0636</Code>
+<TypeCode value="09">
+<Rect>841,649,7,10</Rect>
+<Rect>848,649,7,10</Rect>
+</TypeCode>
+<UseCode value="주">
+<Rect>855,649,7,10</Rect>
+</UseCode>
+<DigitCode value="0636">
+<Rect>867,649,7,11</Rect>
+<Rect>874,649,7,11</Rect>
+<Rect>881,650,7,11</Rect>
+<Rect>888,650,7,11</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>1534,694,124,46</Rect>
+<PlateType>0</PlateType>
+<Code>21호2027</Code>
+<TypeCode value="21">
+<Rect>1549,706,11,19</Rect>
+<Rect>1561,706,11,19</Rect>
+</TypeCode>
+<UseCode value="호">
+<Rect>1574,709,12,17</Rect>
+</UseCode>
+<DigitCode value="2027">
+<Rect>1594,708,11,19</Rect>
+<Rect>1607,709,10,18</Rect>
+<Rect>1619,710,10,18</Rect>
+<Rect>1630,710,11,18</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

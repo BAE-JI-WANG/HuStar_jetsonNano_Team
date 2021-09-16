@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>1327,518,543,352</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1627,673,138,54</Rect>
+<PlateType>1</PlateType>
+<Code>전남18바1336</Code>
+<LocalCode value="전남">
+<Rect>1644,685,12,21</Rect>
+</LocalCode>
+<TypeCode value="18">
+<Rect>1658,686,10,20</Rect>
+<Rect>1670,687,12,20</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>1683,689,11,17</Rect>
+</UseCode>
+<DigitCode value="1336">
+<Rect>1699,689,12,19</Rect>
+<Rect>1712,690,12,20</Rect>
+<Rect>1725,691,12,20</Rect>
+<Rect>1739,692,12,19</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>889,51,787,788</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1362,667,111,69</Rect>
+<PlateType>6</PlateType>
+<Code>대전89아5564</Code>
+<LocalCode value="대전">
+<Rect>1392,681,11,13</Rect>
+<Rect>1404,681,11,13</Rect>
+</LocalCode>
+<TypeCode value="89">
+<Rect>1419,681,10,13</Rect>
+<Rect>1430,681,10,13</Rect>
+</TypeCode>
+<UseCode value="아">
+<Rect>1374,697,16,20</Rect>
+</UseCode>
+<DigitCode value="5564">
+<Rect>1393,698,15,24</Rect>
+<Rect>1410,698,15,24</Rect>
+<Rect>1427,698,15,24</Rect>
+<Rect>1443,698,15,24</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

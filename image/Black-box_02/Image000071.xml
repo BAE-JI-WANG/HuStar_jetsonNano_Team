@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>2,199,591,538</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>73,570,103,61</Rect>
+<PlateType>10</PlateType>
+<Code>전남72아1126</Code>
+<LocalCode value="전남">
+<Rect>102,580,11,12</Rect>
+<Rect>114,580,10,12</Rect>
+</LocalCode>
+<TypeCode value="72">
+<Rect>128,580,9,12</Rect>
+<Rect>138,580,10,12</Rect>
+</TypeCode>
+<UseCode value="아">
+<Rect>83,594,15,19</Rect>
+</UseCode>
+<DigitCode value="1126">
+<Rect>101,594,15,24</Rect>
+<Rect>116,594,15,24</Rect>
+<Rect>133,594,15,24</Rect>
+<Rect>150,594,15,24</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

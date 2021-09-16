@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>371,457,622,342</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>811,709,82,23</Rect>
+<PlateType>1</PlateType>
+<Code>서울88바6976</Code>
+<LocalCode value="서울">
+<Rect>819,713,7,15</Rect>
+</LocalCode>
+<TypeCode value="88">
+<Rect>827,713,8,14</Rect>
+<Rect>836,713,8,14</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>844,713,8,14</Rect>
+</UseCode>
+<DigitCode value="6976">
+<Rect>855,712,9,15</Rect>
+<Rect>864,712,8,15</Rect>
+<Rect>872,712,7,15</Rect>
+<Rect>879,712,8,15</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

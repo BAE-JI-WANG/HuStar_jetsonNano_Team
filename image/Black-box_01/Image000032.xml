@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>906,242,473,359</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1189,431,67,45</Rect>
+<PlateType>6</PlateType>
+<Code>전남81바4526</Code>
+<LocalCode value="전남">
+<Rect>1210,441,7,9</Rect>
+<Rect>1217,441,7,9</Rect>
+</LocalCode>
+<TypeCode value="81">
+<Rect>1226,442,6,8</Rect>
+<Rect>1233,442,6,8</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>1198,451,10,13</Rect>
+</UseCode>
+<DigitCode value="4526">
+<Rect>1210,451,10,16</Rect>
+<Rect>1220,451,9,16</Rect>
+<Rect>1229,451,9,16</Rect>
+<Rect>1239,451,9,16</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

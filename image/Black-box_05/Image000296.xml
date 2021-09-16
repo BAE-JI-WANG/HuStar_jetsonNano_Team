@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>4,568,828,394</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>672,734,74,52</Rect>
+<PlateType>3</PlateType>
+<Code>43나3196</Code>
+<TypeCode value="43">
+<Rect>691,738,11,12</Rect>
+<Rect>702,737,10,12</Rect>
+</TypeCode>
+<UseCode value="나">
+<Rect>712,737,10,10</Rect>
+</UseCode>
+<DigitCode value="3196">
+<Rect>681,752,16,28</Rect>
+<Rect>697,751,13,28</Rect>
+<Rect>710,750,14,27</Rect>
+<Rect>724,749,15,27</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>1083,463,394,287</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>0,472,339,208</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1288,646,107,42</Rect>
+<PlateType>0</PlateType>
+<Code>25아3453</Code>
+<TypeCode value="25">
+<Rect>1307,659,8,15</Rect>
+<Rect>1316,660,9,15</Rect>
+</TypeCode>
+<UseCode value="아">
+<Rect>1325,662,10,12</Rect>
+</UseCode>
+<DigitCode value="3453">
+<Rect>1343,661,9,15</Rect>
+<Rect>1352,662,9,16</Rect>
+<Rect>1362,662,9,16</Rect>
+<Rect>1372,662,9,16</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>0,610,79,25</Rect>
+<PlateType>0</PlateType>
+<Code>62무1041</Code>
+<TypeCode value="62">
+<Rect>4,616,7,12</Rect>
+<Rect>13,616,7,12</Rect>
+</TypeCode>
+<UseCode value="무">
+<Rect>21,617,8,11</Rect>
+</UseCode>
+<DigitCode value="1041">
+<Rect>36,616,7,13</Rect>
+<Rect>44,616,8,13</Rect>
+<Rect>53,616,8,13</Rect>
+<Rect>61,616,8,13</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

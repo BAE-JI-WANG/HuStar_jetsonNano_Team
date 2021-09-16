@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>0,508,582,343</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>819,528,382,320</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>71,643,142,49</Rect>
+<PlateType>0</PlateType>
+<Code>54두3051</Code>
+<TypeCode value="54">
+<Rect>80,654,14,22</Rect>
+<Rect>95,656,15,21</Rect>
+</TypeCode>
+<UseCode value="두">
+<Rect>111,657,14,19</Rect>
+</UseCode>
+<DigitCode value="3051">
+<Rect>136,657,14,21</Rect>
+<Rect>151,657,14,21</Rect>
+<Rect>167,658,14,21</Rect>
+<Rect>181,659,15,21</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>952,744,126,35</Rect>
+<PlateType>1</PlateType>
+<Code>전북30바5882</Code>
+<LocalCode value="전북">
+<Rect>964,749,11,19</Rect>
+</LocalCode>
+<TypeCode value="30">
+<Rect>977,751,10,18</Rect>
+<Rect>988,751,10,18</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>999,753,11,15</Rect>
+</UseCode>
+<DigitCode value="5882">
+<Rect>1015,754,11,17</Rect>
+<Rect>1028,754,10,17</Rect>
+<Rect>1039,755,11,17</Rect>
+<Rect>1051,756,11,17</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

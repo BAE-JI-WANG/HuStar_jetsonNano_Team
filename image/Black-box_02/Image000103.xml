@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>289,502,409,282</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>1170,520,482,380</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>387,676,117,41</Rect>
+<PlateType>0</PlateType>
+<Code>12루0816</Code>
+<TypeCode value="12">
+<Rect>404,687,10,18</Rect>
+<Rect>416,687,10,18</Rect>
+</TypeCode>
+<UseCode value="루">
+<Rect>427,689,10,14</Rect>
+</UseCode>
+<DigitCode value="0816">
+<Rect>446,689,10,18</Rect>
+<Rect>456,690,10,17</Rect>
+<Rect>467,690,10,17</Rect>
+<Rect>478,691,11,17</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>1450,784,91,60</Rect>
+<PlateType>3</PlateType>
+<Code>06거7057</Code>
+<TypeCode value="06">
+<Rect>1481,797,11,10</Rect>
+<Rect>1493,797,10,11</Rect>
+</TypeCode>
+<UseCode value="거">
+<Rect>1504,799,12,10</Rect>
+</UseCode>
+<DigitCode value="7057">
+<Rect>1465,805,15,23</Rect>
+<Rect>1480,807,16,23</Rect>
+<Rect>1497,809,16,23</Rect>
+<Rect>1514,810,16,24</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

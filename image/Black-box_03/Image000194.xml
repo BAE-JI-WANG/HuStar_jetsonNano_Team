@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>110,464,600,455</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>746,535,645,348</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>327,674,202,61</Rect>
+<PlateType>1</PlateType>
+<Code>대전61바4851</Code>
+<LocalCode value="대전">
+<Rect>349,689,18,28</Rect>
+</LocalCode>
+<TypeCode value="61">
+<Rect>369,690,18,27</Rect>
+<Rect>390,690,18,28</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>410,693,19,24</Rect>
+</UseCode>
+<DigitCode value="4851">
+<Rect>435,692,20,28</Rect>
+<Rect>456,693,18,28</Rect>
+<Rect>476,694,17,28</Rect>
+<Rect>495,696,16,27</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>1192,700,111,39</Rect>
+<PlateType>1</PlateType>
+<Code>대전50바2623</Code>
+<LocalCode value="대전">
+<Rect>1207,707,11,22</Rect>
+</LocalCode>
+<TypeCode value="50">
+<Rect>1219,709,9,19</Rect>
+<Rect>1230,709,9,19</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>1240,712,10,15</Rect>
+</UseCode>
+<DigitCode value="2623">
+<Rect>1255,711,9,18</Rect>
+<Rect>1265,712,9,18</Rect>
+<Rect>1275,712,9,18</Rect>
+<Rect>1285,713,8,17</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

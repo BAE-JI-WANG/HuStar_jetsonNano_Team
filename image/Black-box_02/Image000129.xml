@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>806,526,303,248</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>1136,535,347,255</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>218,495,260,178</Rect>
+</CarInfo>
+<CarInfo>
+<Rect>367,502,364,262</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>912,617,102,41</Rect>
+<PlateType>0</PlateType>
+<Code>43소8312</Code>
+<TypeCode value="43">
+<Rect>926,630,9,14</Rect>
+<Rect>936,630,9,14</Rect>
+</TypeCode>
+<UseCode value="소">
+<Rect>946,632,9,12</Rect>
+</UseCode>
+<DigitCode value="8312">
+<Rect>963,631,9,15</Rect>
+<Rect>973,631,9,15</Rect>
+<Rect>983,632,8,15</Rect>
+<Rect>992,632,9,15</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>1310,689,101,41</Rect>
+<PlateType>0</PlateType>
+<Code>04거3265</Code>
+<TypeCode value="04">
+<Rect>1324,700,8,14</Rect>
+<Rect>1333,700,8,14</Rect>
+</TypeCode>
+<UseCode value="거">
+<Rect>1342,702,9,12</Rect>
+</UseCode>
+<DigitCode value="3265">
+<Rect>1358,701,8,14</Rect>
+<Rect>1368,702,8,14</Rect>
+<Rect>1377,702,8,14</Rect>
+<Rect>1386,702,8,14</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>464,606,109,38</Rect>
+<PlateType>0</PlateType>
+<Code>25다0614</Code>
+<TypeCode value="25">
+<Rect>477,615,9,15</Rect>
+<Rect>487,615,9,15</Rect>
+</TypeCode>
+<UseCode value="다">
+<Rect>497,616,10,14</Rect>
+</UseCode>
+<DigitCode value="0614">
+<Rect>516,616,9,16</Rect>
+<Rect>526,617,9,15</Rect>
+<Rect>536,617,9,16</Rect>
+<Rect>547,617,10,16</Rect>
+</DigitCode>
+</PlateInfo>
+<PlateInfo>
+<Rect>282,554,76,34</Rect>
+<PlateType>0</PlateType>
+<Code>49고8603</Code>
+<TypeCode value="49">
+<Rect>291,565,7,11</Rect>
+<Rect>298,565,7,11</Rect>
+</TypeCode>
+<UseCode value="고">
+<Rect>305,566,8,9</Rect>
+</UseCode>
+<DigitCode value="8603">
+<Rect>317,566,7,11</Rect>
+<Rect>324,566,7,11</Rect>
+<Rect>331,566,7,11</Rect>
+<Rect>338,567,7,11</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

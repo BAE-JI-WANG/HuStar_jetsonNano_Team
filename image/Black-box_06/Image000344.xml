@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>875,476,1045,518</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1563,723,131,82</Rect>
+<PlateType>6</PlateType>
+<Code>인천81사6626</Code>
+<LocalCode value="인천">
+<Rect>1600,736,14,16</Rect>
+<Rect>1615,737,14,16</Rect>
+</LocalCode>
+<TypeCode value="81">
+<Rect>1633,737,12,16</Rect>
+<Rect>1647,737,12,16</Rect>
+</TypeCode>
+<UseCode value="사">
+<Rect>1576,756,22,27</Rect>
+</UseCode>
+<DigitCode value="6626">
+<Rect>1600,756,19,33</Rect>
+<Rect>1621,756,19,33</Rect>
+<Rect>1642,758,19,33</Rect>
+<Rect>1663,758,19,33</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

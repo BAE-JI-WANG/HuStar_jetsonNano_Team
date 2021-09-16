@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>1039,246,727,579</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1440,671,107,61</Rect>
+<PlateType>6</PlateType>
+<Code>전북96사2835</Code>
+<LocalCode value="전북">
+<Rect>1467,679,10,11</Rect>
+<Rect>1479,680,9,11</Rect>
+</LocalCode>
+<TypeCode value="96">
+<Rect>1492,680,9,11</Rect>
+<Rect>1503,681,9,11</Rect>
+</TypeCode>
+<UseCode value="사">
+<Rect>1451,693,15,19</Rect>
+</UseCode>
+<DigitCode value="2835">
+<Rect>1468,694,13,22</Rect>
+<Rect>1483,695,14,22</Rect>
+<Rect>1498,695,14,23</Rect>
+<Rect>1515,696,14,22</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

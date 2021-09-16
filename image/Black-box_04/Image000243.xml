@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>584,288,576,594</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>895,738,89,54</Rect>
+<PlateType>6</PlateType>
+<Code>대천85사5547</Code>
+<LocalCode value="대천">
+<Rect>919,746,9,11</Rect>
+<Rect>930,746,9,11</Rect>
+</LocalCode>
+<TypeCode value="85">
+<Rect>942,746,9,12</Rect>
+<Rect>952,746,9,12</Rect>
+</TypeCode>
+<UseCode value="사">
+<Rect>902,761,13,16</Rect>
+</UseCode>
+<DigitCode value="5547">
+<Rect>917,761,13,22</Rect>
+<Rect>933,761,13,22</Rect>
+<Rect>947,762,14,22</Rect>
+<Rect>963,762,13,22</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

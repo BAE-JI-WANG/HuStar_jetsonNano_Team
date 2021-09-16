@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>960,145,685,673</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1353,665,102,60</Rect>
+<PlateType>6</PlateType>
+<Code>경북80아6212</Code>
+<LocalCode value="경북">
+<Rect>1381,674,9,11</Rect>
+<Rect>1391,674,9,11</Rect>
+</LocalCode>
+<TypeCode value="80">
+<Rect>1403,675,9,12</Rect>
+<Rect>1413,675,9,12</Rect>
+</TypeCode>
+<UseCode value="아">
+<Rect>1363,687,16,18</Rect>
+</UseCode>
+<DigitCode value="6212">
+<Rect>1381,687,13,24</Rect>
+<Rect>1395,687,13,24</Rect>
+<Rect>1409,688,13,24</Rect>
+<Rect>1424,688,13,24</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

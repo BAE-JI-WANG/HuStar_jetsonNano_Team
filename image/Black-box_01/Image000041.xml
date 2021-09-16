@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>1170,205,593,513</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1514,590,79,51</Rect>
+<PlateType>5</PlateType>
+<Code>82누8439</Code>
+<TypeCode value="82">
+<Rect>1522,609,9,17</Rect>
+<Rect>1531,609,9,17</Rect>
+</TypeCode>
+<UseCode value="누">
+<Rect>1540,613,8,12</Rect>
+</UseCode>
+<DigitCode value="8439">
+<Rect>1550,610,8,17</Rect>
+<Rect>1558,610,8,17</Rect>
+<Rect>1567,610,8,17</Rect>
+<Rect>1576,610,8,17</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

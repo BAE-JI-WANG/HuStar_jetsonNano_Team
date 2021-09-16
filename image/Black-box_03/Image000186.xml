@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>1132,508,784,454</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1732,757,175,57</Rect>
+<PlateType>1</PlateType>
+<Code>전북30바5210</Code>
+<LocalCode value="전북">
+<Rect>1750,767,17,27</Rect>
+</LocalCode>
+<TypeCode value="30">
+<Rect>1769,767,15,27</Rect>
+<Rect>1787,768,15,27</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>1804,773,17,21</Rect>
+</UseCode>
+<DigitCode value="5210">
+<Rect>1826,772,17,26</Rect>
+<Rect>1844,773,15,26</Rect>
+<Rect>1859,775,15,26</Rect>
+<Rect>1877,774,15,27</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

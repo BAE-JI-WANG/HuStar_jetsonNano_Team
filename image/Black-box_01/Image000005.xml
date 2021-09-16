@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<CarInfo>
+<Rect>703,2,762,714</Rect>
+</CarInfo>
+<PlateInfo>
+<Rect>1165,526,106,68</Rect>
+<PlateType>6</PlateType>
+<Code>부산97사7567</Code>
+<LocalCode value="부산">
+<Rect>1195,536,10,13</Rect>
+<Rect>1206,536,10,13</Rect>
+</LocalCode>
+<TypeCode value="97">
+<Rect>1220,536,10,14</Rect>
+<Rect>1230,536,10,14</Rect>
+</TypeCode>
+<UseCode value="사">
+<Rect>1176,551,16,22</Rect>
+</UseCode>
+<DigitCode value="7567">
+<Rect>1195,551,15,26</Rect>
+<Rect>1211,551,15,26</Rect>
+<Rect>1227,551,16,27</Rect>
+<Rect>1243,551,16,27</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>
