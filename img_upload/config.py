@@ -1,4 +1,0 @@
-AWS_ACCESS_KEY = 'AKIA6KREXCBNQ3GDZBUJ'
-AWS_SECRET_KEY = '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'
-BUCKET_NAME = 'hustarteam1bucket'
-REGION_NAME = 'ap-northeast-2'
